@@ -32,3 +32,13 @@ def titlecase(s):
 print(titlecase(new_string))
 
 
+'''
+Output: 
+The Best Advice I Ever Got Was That Knowledge Is Power
+The Best Advice I  Ever Got Was That Knowledge Is Power
+The Best Advice I  Ever Got Was That Knowledge Is Power
+They'Re Bill'S Friends From The Uk
+They're Bill's Friends From The Uk
+'''
+
+
